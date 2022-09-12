@@ -1,4 +1,4 @@
-# boportfolio
+Bo Claypool's portfolio
 
 # Credits
 - [jQuery](https://jquery.com/)
@@ -12,10 +12,9 @@
 ---- css (styles)  
 ---- img (images, icons)  
 ---- js (javascript)  
--- dist (builded files)  
----- css (buildes styles)  
----- js  (buildes javascript)  
--- .browserslistrc (postcss setup)    
+-- dist (build files)  
+---- css (build styles)  
+---- js  (build javascript)  
 -- Gruntfile.js 
 -- index.html
 -- package.json (dependencies) 
